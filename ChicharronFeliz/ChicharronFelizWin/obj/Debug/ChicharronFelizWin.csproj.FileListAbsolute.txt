@@ -1,0 +1,16 @@
+C:\cursocharp\sabados\ChicharronFeliz\ChicharronFeliz\ChicharronFelizWin\bin\Debug\ChicharronFelizWin.exe.config
+C:\cursocharp\sabados\ChicharronFeliz\ChicharronFeliz\ChicharronFelizWin\bin\Debug\ChicharronFelizWin.exe
+C:\cursocharp\sabados\ChicharronFeliz\ChicharronFeliz\ChicharronFelizWin\bin\Debug\ChicharronFelizWin.pdb
+C:\cursocharp\sabados\ChicharronFeliz\ChicharronFeliz\ChicharronFelizWin\bin\Debug\CapaEntidades.dll
+C:\cursocharp\sabados\ChicharronFeliz\ChicharronFeliz\ChicharronFelizWin\bin\Debug\CapaNegocios.dll
+C:\cursocharp\sabados\ChicharronFeliz\ChicharronFeliz\ChicharronFelizWin\bin\Debug\CapaDatos.dll
+C:\cursocharp\sabados\ChicharronFeliz\ChicharronFeliz\ChicharronFelizWin\bin\Debug\CapaEntidades.pdb
+C:\cursocharp\sabados\ChicharronFeliz\ChicharronFeliz\ChicharronFelizWin\bin\Debug\CapaNegocios.pdb
+C:\cursocharp\sabados\ChicharronFeliz\ChicharronFeliz\ChicharronFelizWin\bin\Debug\CapaDatos.pdb
+C:\cursocharp\sabados\ChicharronFeliz\ChicharronFeliz\ChicharronFelizWin\obj\Debug\ChicharronFelizWin.MainForm.resources
+C:\cursocharp\sabados\ChicharronFeliz\ChicharronFeliz\ChicharronFelizWin\obj\Debug\ChicharronFelizWin.csproj.GenerateResource.Cache
+C:\cursocharp\sabados\ChicharronFeliz\ChicharronFeliz\ChicharronFelizWin\obj\Debug\ChicharronFelizWin.exe
+C:\cursocharp\sabados\ChicharronFeliz\ChicharronFeliz\ChicharronFelizWin\obj\Debug\ChicharronFelizWin.pdb
+C:\cursocharp\sabados\ChicharronFeliz\ChicharronFeliz\ChicharronFelizWin\obj\Debug\ChicharronFelizWin.csprojAssemblyReference.cache
+C:\cursocharp\sabados\ChicharronFeliz\ChicharronFeliz\ChicharronFelizWin\obj\Debug\ChicharronFelizWin.csproj.CoreCompileInputs.cache
+C:\cursocharp\sabados\ChicharronFeliz\ChicharronFeliz\ChicharronFelizWin\obj\Debug\ChicharronFelizWin.csproj.CopyComplete

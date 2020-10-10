@@ -1,0 +1,9 @@
+C:\cursocharp\sabados\ChicharronFeliz\ChicharronFeliz\CapaDatos\bin\Debug\CapaDatos.dll
+C:\cursocharp\sabados\ChicharronFeliz\ChicharronFeliz\CapaDatos\bin\Debug\CapaDatos.pdb
+C:\cursocharp\sabados\ChicharronFeliz\ChicharronFeliz\CapaDatos\bin\Debug\CapaEntidades.dll
+C:\cursocharp\sabados\ChicharronFeliz\ChicharronFeliz\CapaDatos\bin\Debug\CapaEntidades.pdb
+C:\cursocharp\sabados\ChicharronFeliz\ChicharronFeliz\CapaDatos\obj\Debug\CapaDatos.dll
+C:\cursocharp\sabados\ChicharronFeliz\ChicharronFeliz\CapaDatos\obj\Debug\CapaDatos.pdb
+C:\cursocharp\sabados\ChicharronFeliz\ChicharronFeliz\CapaDatos\obj\Debug\CapaDatos.csprojAssemblyReference.cache
+C:\cursocharp\sabados\ChicharronFeliz\ChicharronFeliz\CapaDatos\obj\Debug\CapaDatos.csproj.CoreCompileInputs.cache
+C:\cursocharp\sabados\ChicharronFeliz\ChicharronFeliz\CapaDatos\obj\Debug\CapaDatos.csproj.CopyComplete

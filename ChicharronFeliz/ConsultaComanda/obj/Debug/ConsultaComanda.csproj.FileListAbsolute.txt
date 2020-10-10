@@ -1,0 +1,12 @@
+C:\cursocharp\sabados\ChicharronFeliz\ChicharronFeliz\ConsultaComanda\bin\Debug\ConsultaComanda.exe.config
+C:\cursocharp\sabados\ChicharronFeliz\ChicharronFeliz\ConsultaComanda\bin\Debug\ConsultaComanda.exe
+C:\cursocharp\sabados\ChicharronFeliz\ChicharronFeliz\ConsultaComanda\bin\Debug\ConsultaComanda.pdb
+C:\cursocharp\sabados\ChicharronFeliz\ChicharronFeliz\ConsultaComanda\obj\Debug\ConsultaComanda.csprojResolveAssemblyReference.cache
+C:\cursocharp\sabados\ChicharronFeliz\ChicharronFeliz\ConsultaComanda\obj\Debug\ConsultaComanda.exe
+C:\cursocharp\sabados\ChicharronFeliz\ChicharronFeliz\ConsultaComanda\obj\Debug\ConsultaComanda.pdb
+C:\cursocharp\sabados\ChicharronFeliz\ChicharronFeliz\ConsultaComanda\bin\Debug\CapaEntidades.dll
+C:\cursocharp\sabados\ChicharronFeliz\ChicharronFeliz\ConsultaComanda\bin\Debug\CapaNegocios.dll
+C:\cursocharp\sabados\ChicharronFeliz\ChicharronFeliz\ConsultaComanda\bin\Debug\CapaDatos.dll
+C:\cursocharp\sabados\ChicharronFeliz\ChicharronFeliz\ConsultaComanda\bin\Debug\CapaEntidades.pdb
+C:\cursocharp\sabados\ChicharronFeliz\ChicharronFeliz\ConsultaComanda\bin\Debug\CapaNegocios.pdb
+C:\cursocharp\sabados\ChicharronFeliz\ChicharronFeliz\ConsultaComanda\bin\Debug\CapaDatos.pdb

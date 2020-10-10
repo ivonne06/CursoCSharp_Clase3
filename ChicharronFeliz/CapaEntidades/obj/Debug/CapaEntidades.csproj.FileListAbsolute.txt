@@ -1,0 +1,5 @@
+C:\cursocharp\sabados\ChicharronFeliz\ChicharronFeliz\CapaEntidades\bin\Debug\CapaEntidades.dll
+C:\cursocharp\sabados\ChicharronFeliz\ChicharronFeliz\CapaEntidades\bin\Debug\CapaEntidades.pdb
+C:\cursocharp\sabados\ChicharronFeliz\ChicharronFeliz\CapaEntidades\obj\Debug\CapaEntidades.csprojResolveAssemblyReference.cache
+C:\cursocharp\sabados\ChicharronFeliz\ChicharronFeliz\CapaEntidades\obj\Debug\CapaEntidades.dll
+C:\cursocharp\sabados\ChicharronFeliz\ChicharronFeliz\CapaEntidades\obj\Debug\CapaEntidades.pdb

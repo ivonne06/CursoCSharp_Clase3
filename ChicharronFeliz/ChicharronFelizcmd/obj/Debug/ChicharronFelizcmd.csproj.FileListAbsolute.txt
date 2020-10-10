@@ -1,0 +1,6 @@
+C:\cursocharp\sabados\ChicharronFeliz\ChicharronFeliz\ChicharronFelizcmd\bin\Debug\ChicharronFelizcmd.exe.config
+C:\cursocharp\sabados\ChicharronFeliz\ChicharronFeliz\ChicharronFelizcmd\bin\Debug\ChicharronFelizcmd.exe
+C:\cursocharp\sabados\ChicharronFeliz\ChicharronFeliz\ChicharronFelizcmd\bin\Debug\ChicharronFelizcmd.pdb
+C:\cursocharp\sabados\ChicharronFeliz\ChicharronFeliz\ChicharronFelizcmd\obj\Debug\ChicharronFelizcmd.csprojResolveAssemblyReference.cache
+C:\cursocharp\sabados\ChicharronFeliz\ChicharronFeliz\ChicharronFelizcmd\obj\Debug\ChicharronFelizcmd.exe
+C:\cursocharp\sabados\ChicharronFeliz\ChicharronFeliz\ChicharronFelizcmd\obj\Debug\ChicharronFelizcmd.pdb

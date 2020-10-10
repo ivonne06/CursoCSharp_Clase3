@@ -1,0 +1,11 @@
+C:\cursocharp\sabados\ChicharronFeliz\ChicharronFeliz\CapaNegocios\bin\Debug\CapaNegocios.dll
+C:\cursocharp\sabados\ChicharronFeliz\ChicharronFeliz\CapaNegocios\bin\Debug\CapaNegocios.pdb
+C:\cursocharp\sabados\ChicharronFeliz\ChicharronFeliz\CapaNegocios\obj\Debug\CapaNegocios.dll
+C:\cursocharp\sabados\ChicharronFeliz\ChicharronFeliz\CapaNegocios\obj\Debug\CapaNegocios.pdb
+C:\cursocharp\sabados\ChicharronFeliz\ChicharronFeliz\CapaNegocios\bin\Debug\CapaDatos.dll
+C:\cursocharp\sabados\ChicharronFeliz\ChicharronFeliz\CapaNegocios\bin\Debug\CapaEntidades.dll
+C:\cursocharp\sabados\ChicharronFeliz\ChicharronFeliz\CapaNegocios\bin\Debug\CapaDatos.pdb
+C:\cursocharp\sabados\ChicharronFeliz\ChicharronFeliz\CapaNegocios\bin\Debug\CapaEntidades.pdb
+C:\cursocharp\sabados\ChicharronFeliz\ChicharronFeliz\CapaNegocios\obj\Debug\CapaNegocios.csprojAssemblyReference.cache
+C:\cursocharp\sabados\ChicharronFeliz\ChicharronFeliz\CapaNegocios\obj\Debug\CapaNegocios.csproj.CoreCompileInputs.cache
+C:\cursocharp\sabados\ChicharronFeliz\ChicharronFeliz\CapaNegocios\obj\Debug\CapaNegocios.csproj.CopyComplete
